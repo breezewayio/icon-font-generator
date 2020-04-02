@@ -1,6 +1,6 @@
 {
   "name": "@breezeway/icon-font-generator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Easy-to-use, pre-configured cli tool to generate webfont icon kits from a bunch of .svg files",
   "main": "index.js",
   "repository": {

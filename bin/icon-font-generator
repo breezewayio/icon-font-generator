@@ -128,7 +128,7 @@ function showHelp() {
     '  --normalize      '.bold + 'Normalize icons sizes (Default: false)\n' +
     '  --round          '.bold + 'Setup SVG rounding (Default: 10e12)\n' +
     '  --descent        '.bold + 'Offset applied to the baseline (Default: 0)\n' +
-    '  --ascent         '.bold + 'The font ascent. Use this options only if you know what you're doing. A suitable value for this is computed for you.\n' +
+    '  --ascent         '.bold + "The font ascent. Use this options only if you know what you're doing. A suitable value for this is computed for you.\n" +
     '  --mono           '.bold + 'Make font monospace (Default: false)\n' +
     '  --height         '.bold + 'Fixed font height value\n' +
     '  --center         '.bold + 'Center font horizontally'
