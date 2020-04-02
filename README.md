@@ -60,6 +60,7 @@ Options:
   --normalize      Normalize icons sizes (Default: false)
   --round          Setup SVG rounding (Default: 10e12)
   --descent        Offset applied to the baseline (Default: 0)
+  --ascent         The font ascent. Use this options only if you know what you're doing. A suitable value for this is computed for you.
   --mono           Make font monospace (Default: false)
   --height         Fixed font height value
   --center         Center font horizontally
